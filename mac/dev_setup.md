@@ -34,3 +34,6 @@ brew install --cask pika
 # personal stuff
 
 brew install --cask spotify
+
+# Web browsers for automation testing
+brew install --cask chromium
